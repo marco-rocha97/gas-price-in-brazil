@@ -6,4 +6,4 @@ In other words, is the pre-job that a data analyst does, understand data and dis
 
 Click on the [Jupyter Notebook](https://github.com/marco-rocha97/gas-price-in-brazil/blob/main/gas-price-in-brazil.ipynb) and watch the step-by-step of this project
 
-Dataset link - https://www.kaggle.com/datasets/matheusfreitag/gas-prices-in-brazil
+Dataset Link: [Gas Price in Brazil](https://www.kaggle.com/datasets/matheusfreitag/gas-prices-in-brazil)
